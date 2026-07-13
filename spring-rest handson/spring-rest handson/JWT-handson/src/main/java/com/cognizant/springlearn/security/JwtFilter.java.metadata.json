@@ -1,0 +1,4 @@
+{
+  "summary":  "JwtFilter - intercepts requests and validates JWT from Authorization header",
+  "updatedAt":  "2026-07-10T17:00:04.899482200Z"
+}

@@ -1,0 +1,4 @@
+{
+  "summary":  "CountryController with GET /country, GET /countries, GET /countries/{code} endpoints",
+  "updatedAt":  "2026-07-10T16:52:24.016066Z"
+}

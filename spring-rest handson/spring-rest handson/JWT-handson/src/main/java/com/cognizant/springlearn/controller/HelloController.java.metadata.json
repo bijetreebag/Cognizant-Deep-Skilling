@@ -1,0 +1,4 @@
+{
+  "summary":  "HelloController with GET /hello endpoint protected by JWT",
+  "updatedAt":  "2026-07-10T17:00:48.618170100Z"
+}
